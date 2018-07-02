@@ -1,2 +1,5 @@
 # hello-world
-Hello-world repository, for the beginners guide. 
+
+Hello! 
+
+I'm now creating a new update to the README file. 
